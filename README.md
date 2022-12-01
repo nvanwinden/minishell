@@ -1,5 +1,5 @@
 # minishell :shell:
-**Codam [42 Network] group project**: the objective of this project is to **recode your own shell** using **Bash** as a reference.
+**Codam [42 Network] group project**: the objective of this project is to **code your own shell** using **Bash** as a reference.
 
 __Project requirements__
 
