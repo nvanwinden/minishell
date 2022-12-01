@@ -34,7 +34,7 @@ This project is a collaborative effort with [Swaan Miller](https://github.com/su
 
 __Subject__
 
-[Read the full subject]()
+[Read the full subject](https://github.com/nvanwinden/minishell/blob/main/en.subject.pdf)
 
 ## Instructions :clipboard:
 
